@@ -1,4 +1,4 @@
-# Find and Compare Route 53 A Records with IPs in your AWS Account
+# Find and Compare Route53 A Records with IPs in your AWS Account
 
 # IAM Policy & Role Setup
 
