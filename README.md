@@ -67,7 +67,7 @@ Also, make sure the trusted relationship at the end of the page while creating t
       ]
     }
 
-### 3. Configure Accounts adn Region
+### 3. Configure Accounts and Region
 
 See [`config/config.py`](https://github.com/CloudKeeper-Inc/IP-scan/blob/main/config/config.py) for examples of how to configure your accounts and regions.
 
