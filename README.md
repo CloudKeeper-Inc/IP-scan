@@ -52,7 +52,7 @@ Also, Make sure that the credentials of the primary account are configured in yo
 
 Also, make sure the trusted relationship at the end of the page while creating the role looks like the one below, or you can also review it after the role is created:
 
-    ```json
+
     {
       "Version": "2012-10-17",
       "Statement": [
